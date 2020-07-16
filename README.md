@@ -1,3 +1,3 @@
 # Harambe-Space-Invader
 
-## a space invader with harambe spin-off
+### what if harambe had a gun to protect himself from kids who attract snipers
